@@ -15,3 +15,30 @@ You will also hear from many top leaders in Deep Learning, who will share with y
 AI is transforming multiple industries. After finishing this specialization, you will likely find creative ways to apply it to your work.
 
 We will help you master Deep Learning, understand how to apply it, and build a career in AI.
+
+## Courses
+- [x] [Neural Networks and Deep Learning](course1)
+  - Introduction to deep learning
+  - Neural Networks Basics
+  - Shallow neural networks
+  - Deep Neural Networks
+    
+- [x] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](course2)
+  - Practical aspects of Deep Learning
+  - Optimization algorithms
+  - Hyperparameter tuning, Batch Normalization and Programming Frameworks
+  
+- [x] [Structuring Machine Learning Projects](course3)
+  - ML Strategy (1)
+  - ML Strategy (2)
+  
+- [x] [Convolutional Neural Networks](course4)
+  - Foundations of Convolutional Neural Networks
+  - Deep convolutional models: case studies
+  - Object detection
+  - Special applications: Face recognition & Neural style transfer
+  
+- [x] [Sequence Models](course5)
+  - Recurrent Neural Networks
+  - Natural Language Processing & Word Embeddings
+  - Sequence models & Attention mechanism

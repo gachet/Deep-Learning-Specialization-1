@@ -23,4 +23,4 @@ Be able to explain the major trends driving the rise of deep learning, and under
   - [x] Introduction to deep learning
 
 ### Heroes of Deep Learning
-  - [ ] [Geoffrey Hinton](https://www.youtube.com/watch?v=-eyhCTvrEtE&t=1624s)
+  - [x] [Geoffrey Hinton](https://www.youtube.com/watch?v=-eyhCTvrEtE&t=1624s)

@@ -42,4 +42,4 @@ Learn to set up a machine learning problem with a neural network mindset. Learn 
   - [x] Logistic Regression with a Neural Network mindset
 
 ## Heroes of Deep Learning (Optional)
-  - [x] LecturePieter Abbeel interview
+  - [x] [Pieter Abbeel interview](https://www.youtube.com/watch?v=LpAiPYNnxW0&list=PLkDaE6sCZn6FcbHlDzbVzf3TVgxzxK7lr&index=5)

@@ -41,5 +41,5 @@ Learn to set up a machine learning problem with a neural network mindset. Learn 
   - [x] Python Basics with numpy (optional)
   - [x] Logistic Regression with a Neural Network mindset
 
-## Heroes of Deep Learning (optional)
+## Heroes of Deep Learning (Optional)
   - [x] LecturePieter Abbeel interview

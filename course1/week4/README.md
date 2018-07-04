@@ -24,5 +24,5 @@ Understand the key computations underlying deep learning, use them to build and 
 - [x] Key concepts on Deep Neural Networks
 
 **Programming Assignments**
-- [x] Building your Deep Neural Network: Step by Step
-- [x] Deep Neural Network - Application
+- [x] [Building your Deep Neural Network: Step by Step](Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step/Building%2Byour%2BDeep%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2Bv3.ipynb)
+- [x] [Deep Neural Network - Application](Deep%20Neural%20Network%20Application%20-%20Image%20Classification/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv3.ipynb)

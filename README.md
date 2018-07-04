@@ -1,9 +1,6 @@
 # Deep Learning Specialization [[certificate](certificate.pdf)]
 Deep Learning by [deeplearning.ai](https://www.deeplearning.ai/)
 
-**Note:** 
-Unfortunately I won't be able to provide with the solutions to the programming assigmments based on [Coursera Honor Code](https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code)
-
 ## About This Specialization
 
 If you want to break into AI, this Specialization will help you do so. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning.

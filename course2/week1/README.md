@@ -35,9 +35,9 @@
 - [x] Practical aspects of deep learning
 
 **Programming assignments**
-- [x] Initialization
-- [x] Regularization
-- [x] Gradient Checking
+- [x] [Initialization](Initialization/Initialization.ipynb)
+- [x] [Regularization](Regularization/Regularization.ipynb)
+- [x] [Gradient Checking](Gradient%20Checking/Gradient%2BChecking.ipynb)
 
 ## Heroes of Deep Learning (Optional)
 - [ ] [Yoshua Bengio interview](https://www.youtube.com/watch?v=oJFShOfCZiA&index=4&list=PLkDaE6sCZn6FcbHlDzbVzf3TVgxzxK7lr)

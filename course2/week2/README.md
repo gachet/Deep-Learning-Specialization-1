@@ -23,7 +23,7 @@
 - [x] Optimization algorithms
 
 **Programming assignment**
-- [x] Optimization
+- [x] [Optimization](Optimization%2Bmethods.ipynb)
 
 ## Heroes of Deep Learning (Optional)
 - [x] [Yuanqing Lin interview](https://www.youtube.com/watch?v=dwFcodBz_2I&list=PLkDaE6sCZn6FcbHlDzbVzf3TVgxzxK7lr&index=2)

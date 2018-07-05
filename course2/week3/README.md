@@ -28,4 +28,4 @@ Introduction to programming frameworks
 - [x] Hyperparameter tuning, Batch Normalization, Programming Frameworks
 
 **Programming assignment**
-- [x] Tensorflow
+- [x] [Tensorflow](Tensorflow%2BTutorial.ipynb)

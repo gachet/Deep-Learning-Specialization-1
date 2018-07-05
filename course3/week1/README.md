@@ -30,8 +30,6 @@
 
 ## Machine Learning flight simulator
 - [x] Machine Learning flight simulator
-
-**Quiz**
 - [x] Bird recognition in the city of Peacetopia (case study)
 
 ## Heroes of Deep Learning (Optional)

@@ -38,8 +38,8 @@ Learn to set up a machine learning problem with a neural network mindset. Learn 
 - [x] Neural Network Basics
   
 **Programming Assignments**
-- [x] Python Basics with numpy (optional)
-- [x] Logistic Regression with a Neural Network mindset
+- [x] [Python Basics with numpy (optional)](Python%20Basics%20with%20Numpy/Python%2BBasics%2BWith%2BNumpy%2Bv3.ipynb)
+- [x] [Logistic Regression with a Neural Network mindset](Logistic%20Regression%20as%20a%20Neural%20Network/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv3.ipynb)
 
 ## Heroes of Deep Learning (Optional)
 - [x] [Pieter Abbeel interview](https://www.youtube.com/watch?v=LpAiPYNnxW0&list=PLkDaE6sCZn6FcbHlDzbVzf3TVgxzxK7lr&index=5)

@@ -28,7 +28,7 @@ Learn to build a neural network with one hidden layer, using forward propagation
 - [x] Shallow Neural Networks
 
 **Programming Assignment**
-- [x] Planar data classification with a hidden layer
+- [x] [Planar data classification with a hidden layer](Planar%20data%20classification%20with%20one%20hidden%20layer/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv3.ipynb)
 
 ## Heroes of Deep Learning (Optional)
 - [x] [Ian Goodfellow interview](https://www.youtube.com/watch?v=dqwx-F7Eits&list=PLkDaE6sCZn6FcbHlDzbVzf3TVgxzxK7lr&index=3)

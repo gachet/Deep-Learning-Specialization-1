@@ -13,14 +13,7 @@ This course also teaches you how Deep Learning actually works, rather than prese
 This is the first course of the Deep Learning Specialization.
 
 ## Course
-- [x] [Week 1](week1)
-  - Introduction to deep learning
-
-- [x] [Week 2](week2)
-  - Neural Networks Basics
-
-- [x] [Week 3](week3)
-  - Shallow neural networks
-
-- [x] [Week 4](week4)
-  - Deep Neural Networks
+- [x] [Week 1](week1): Introduction to deep learning
+- [x] [Week 2](week2): Neural Networks Basics
+- [x] [Week 3](week3): Shallow neural networks
+- [x] [Week 4](week4): Deep Neural Networks

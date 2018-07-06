@@ -12,11 +12,6 @@ After 3 weeks, you will:
 This is the second course of the Deep Learning Specialization.
 
 ## Course
-- [x] [Week 1](week1)
-  - Practical aspects of Deep Learning
-
-- [x] [Week 2](week2)
-  - Optimization algorithms
-
-- [x] [Week 3](week3)
-  - Hyperparameter tuning, Batch Normalization and Programming Frameworks
+- [x] [Week 1: Practical aspects of Deep Learning](week1)
+- [x] [Week 2: Optimization algorithms](week2)
+- [x] [Week 3: Hyperparameter tuning, Batch Normalization and Programming Frameworks](week3)

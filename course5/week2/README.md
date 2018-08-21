@@ -24,5 +24,5 @@ Natural language processing with deep learning is an important combination. Usin
 - [x] Natural Language Processing & Word Embeddings
 
 **Programming assignments**
-- [x] Operations on word vectors - Debiasing
-- [x] Emojify
+- [x] [Operations on word vectors - Debiasing](Word%20Vector%20Representation/Operations%2Bon%2Bword%2Bvectors%2B-%2Bv2.ipynb)
+- [x] [Emojify](Emojify/Emojify%2B-%2Bv2.ipynb)

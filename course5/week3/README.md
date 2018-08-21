@@ -22,5 +22,5 @@ Sequence models can be augmented using an attention mechanism. This algorithm wi
 - [x] Sequence models & Attention mechanism
 
 **Programming assignments**
-- [x] Neural Machine Translation with Attention
-- [x] Trigger word detection
+- [x] [Neural Machine Translation with Attention](Machine%20Translation/Neural%2Bmachine%2Btranslation%2Bwith%2Battention%2B-%2Bv4.ipynb)
+- [x] [Trigger word detection](Trigger%20word%20detection/Trigger%2Bword%2Bdetection%2B-%2Bv1.ipynb)

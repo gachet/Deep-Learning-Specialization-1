@@ -31,4 +31,4 @@ Learn to implement the foundational layers of CNNs (pooling, convolutions) and t
 - [x] [Convolutional Model: application](Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
 
 Heroes of Deep Learning (Optional)
-- [ ] Yann LeCun Interview](https://www.youtube.com/watch?v=JS12eb1cTLE&index=7&list=PLkDaE6sCZn6FcbHlDzbVzf3TVgxzxK7lr)
+- [ ] [Yann LeCun Interview](https://www.youtube.com/watch?v=JS12eb1cTLE&index=7&list=PLkDaE6sCZn6FcbHlDzbVzf3TVgxzxK7lr)
